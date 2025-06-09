@@ -72,12 +72,3 @@ A productivity tool that lets users create tasks with timers to help manage time
    - Task Timer Web App
 
 (Optional) A local web server or VS Code with Live Server extension for better testing of the web apps
-
----
-
-## 📌 Usage
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/<your-username>/projects.git
-   cd projects
